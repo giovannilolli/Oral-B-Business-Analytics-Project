@@ -22,6 +22,9 @@ We started with a main table of all Italian stores and a smaller table showing t
 2. Machine Learning & Cross-Validation (KNIME)
 We only had 170 labeled rows to train our model on, and 310 unlabeled stores to predict. Because the training set was so small, we used a Cross-Validation loop in KNIME to make sure our models were stable. We tested three algorithms: Logistic Regression, Decision Trees, and Random Forest. After comparing their accuracy and checking for overfitting, we selected Random Forest as the best model.
 
+<img width="776" height="511" alt="image" src="https://github.com/user-attachments/assets/01b63706-9c72-4cd2-a312-08e189b22081" />
+
+
 3. Calculating Business Profit
 The assignment included strict financial rules: a successful store generates €2,500 in incremental sales, but running the campaign costs €1,500 per store. We used Math and Rule Engine nodes in KNIME to turn the Random Forest probability scores into a final "Yes/No" recommendation for each of the 310 stores, ensuring our final list maximized total profit.
 
