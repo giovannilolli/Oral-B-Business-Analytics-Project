@@ -34,5 +34,7 @@ To present our findings clearly, we built a geographic dashboard in Power BI. Th
 5. AI Marketing Content (Langflow/GPT)
 To reach the customers at our recommended stores, we designed a custom virtual assistant workflow. Using a set of tailored prompts, the AI automatically generated personalized marketing messages based on the specific consumer characteristics of our target areas.
 
+<img width="819" height="607" alt="image" src="https://github.com/user-attachments/assets/ec11b55d-0f35-4563-9abb-bb93fa5f40a4" />
+
 # Final Output
 We summarized all our technical findings and business recommendations into a 10-minute presentation designed to be easily understood by non-technical marketing managers.
