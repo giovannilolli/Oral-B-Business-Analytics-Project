@@ -31,6 +31,9 @@ The assignment included strict financial rules: a successful store generates €
 4. Interactive Dashboard (Power BI)
 To present our findings clearly, we built a geographic dashboard in Power BI. This allowed us to map out the stores across Italy and visually explore the "typical traits" of the locations that had the highest potential for generating sales.
 
+<img width="1155" height="633" alt="image" src="https://github.com/user-attachments/assets/03257832-9e8f-4514-95bb-2e0bfb26c4ca" />
+
+
 5. AI Marketing Content (Langflow/GPT)
 To reach the customers at our recommended stores, we designed a custom virtual assistant workflow. Using a set of tailored prompts, the AI automatically generated personalized marketing messages based on the specific consumer characteristics of our target areas.
 
